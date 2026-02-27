@@ -1,0 +1,14 @@
+# Resumes and PDFs
+*.tex
+*.pdf
+resume_*.tex
+resume_*.pdf
+tailored_resume.*
+*.aux
+*.log
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.env
